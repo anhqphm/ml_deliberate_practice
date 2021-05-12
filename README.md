@@ -51,6 +51,8 @@ Software development skills for DS (in terms of my priority)
 *Study path*
 - [Stackoverflow’s Python from apprentice to guru](https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 - [Github Coding Interview](https://github.com/jwasham/coding-interview-university#the-daily-plan)
+- [Berkeley CS88:Computational Structures in Data Science](https://cs88-website.github.io/sp21/)
+
 
 *Writing pythonic code*
 
@@ -65,6 +67,7 @@ Software development skills for DS (in terms of my priority)
 
 *Machine Learning*
 - [Freecodecamp’s Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/#how-neural-networks-work)
+- (Books) Hands–On Machine Learning with Scikit–Learn and TensorFlow ([link](https://www.amazon.sg/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291))
 
 
-Timeframe
+# Timeframe
