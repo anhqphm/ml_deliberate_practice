@@ -39,16 +39,16 @@ Some guideline from Freecodecamp on How to Use Deliberate Practice to LearnProgr
 
 Software development skills for DS (in terms of my priority)
 *The basics*
-- Version control - Git ([GitLab](https://lab.github.com/))
-- Writing modular, reusable code
-- Documenting/ Commenting
-- Unit Testing
-- Logging
+- [ ] Version control - Git ([GitLab](https://lab.github.com/))
+- [ ] Writing modular, reusable code
+- [ ] Documenting/ Commenting
+- [ ] Unit Testing
+- [ ] Logging
 
 *The advance*
-- OOP
-- Decorator
-- Functional programming
+- [ ] OOP
+- [ ] Decorator
+- [ ] Functional programming
 
 # Resources
 *Study path*
@@ -58,12 +58,14 @@ Software development skills for DS (in terms of my priority)
 
 
 *Writing pythonic code*
-
+- Clean Code ([book](https://www.oreilly.com/library/view/clean-code-a/9780136083238/), [summary article](https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c))
 
 *Jupyter notebook*
 - [Tip, tricks, and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 *Pandas for Data analysis*
+- [10 mins to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+
 
 *Writing Object Oriented Programming Python Code*
 - SOLID OOP Principles ([video](https://www.youtube.com/playlist?list=PL4CE9F710017EA77A))
