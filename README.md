@@ -19,11 +19,14 @@ Some guideline from Freecodecamp on How to Use Deliberate Practice to LearnProgr
 # Objectives
 *Immediate*
 - Learn to write pythonic code, know how to use git and GitHub
+
 *Short term*
 - Write reusable, modular, with unit-test code
+
 *Medium term*
 - Program basic Machine Learning models
 - Develop an app deploying Machine Learning model 
+
 *Long term*
 - Write tools/ frameworks. Being able to work on projects that span the full stack using Python, apply good software engineer principles to these projects.
 
