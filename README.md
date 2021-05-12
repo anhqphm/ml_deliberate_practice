@@ -65,14 +65,14 @@ Software development skills for DS (in terms of my priority)
 
 *Pandas for Data analysis*
 - [10 mins to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
-
+- (Book) Python for Data Analysis ([link](https://www.amazon.com/gp/product/1491957662/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491957662&linkCode=as2&tag=dataschool-20&linkId=ddd3f08226c4d08a024a54fdb41e8475))
 
 *Writing Object Oriented Programming Python Code*
 - SOLID OOP Principles ([video](https://www.youtube.com/playlist?list=PL4CE9F710017EA77A))
 
 *Machine Learning*
 - [Freecodecamp’s Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/#how-neural-networks-work)
-- (Books) Hands–On Machine Learning with Scikit–Learn and TensorFlow ([link](https://www.amazon.sg/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291))
+- (Book) Hands–On Machine Learning with Scikit–Learn and TensorFlow ([link](https://www.amazon.sg/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291))
 
 
 # Timeframe
