@@ -46,7 +46,7 @@ Software development skills for DS (in terms of my priority)
 - [ ] Logging
 
 *The advance*
-- [ ] OOP
+- [ ] OOP 
 - [ ] Decorator
 - [ ] Functional programming
 
@@ -69,6 +69,8 @@ Software development skills for DS (in terms of my priority)
 
 *Writing Object Oriented Programming Python Code*
 - SOLID OOP Principles ([video](https://www.youtube.com/playlist?list=PL4CE9F710017EA77A))
+- Python OOP Tutorial [video](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&ab_channel=CoreySchafer)
+
 
 *Machine Learning*
 - [Freecodecamp’s Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/#how-neural-networks-work)
